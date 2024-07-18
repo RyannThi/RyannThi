@@ -33,8 +33,6 @@ Atualmente estou cursando Jogos Digitais na PUC-SP ✨. Antes de entrar na facul
 
 <div align=center>
   <h3>Outros</h3>
-  <a href="https://www.duolingo.com/profile/RyannThier3">
-  <img align="center" src="https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white"/></a>
   <img align="center" src="https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white" onclick="" style="pointer-events: none;"/>
   <img align="center" src="https://img.shields.io/badge/Playstation%204-003791?style=for-the-badge&logo=playstation-4&logoColor=white" onclick="" style="pointer-events: none;"/>
   <img align="center" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" onclick="" style="pointer-events: none;"/>
