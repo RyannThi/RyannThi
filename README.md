@@ -1,4 +1,4 @@
-### It's me, hi, I'm the problem, it's me. 🎵
+### It's me, hi. 🎵
 
 Oe, meu nome é Ryann Thierry e sou um desenvolvedor de jogos 🏳‍🌈. 19 anos, 10 de Fevereiro. 🇧🇷 🇺🇸
 
