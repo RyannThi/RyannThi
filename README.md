@@ -1,8 +1,8 @@
 ### It's me, hi. 🎵
 
-Oe, meu nome é Ryann Thierry e sou um desenvolvedor de jogos 🏳‍🌈. 21 anos, 10 de Fevereiro. 🇧🇷 🇺🇸
+Me chamo Ryann Thierry e sou um desenvolvedor de jogos 🏳‍🌈. 22 anos, 10 de Fevereiro. 🇧🇷 🇺🇸
 
-Atualmente estou cursando Jogos Digitais na PUC-SP ✨. Antes de entrar na faculdade, desenvolvi diversos projetos na área e já até lecionei e continuo ativamente provendo suporte ao aprendizado da engine LuaSTG, um motor bem nichê da China com foco em desenvolvimento de jogos Danmaku utilizando a base da franquia Touhou como material de aprendizado. Você pode encontrar mais detalhes nos links abaixo.<br/>
+Bacharel em Jogos Digitais pela PUC-SP.
 <br/>
 <div align="center">
   <a href="https://github.com/RyannThi">
